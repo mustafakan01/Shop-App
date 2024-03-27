@@ -1,0 +1,17 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1000,
+        "description": "Powerful laptop for daily use"
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 800,
+        "description": "Latest smartphone with great features"
+      }
+    ]
+  }
+  
